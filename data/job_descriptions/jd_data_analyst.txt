@@ -1,0 +1,5 @@
+Skills:
+Python, SQL, Pandas, NumPy, Excel, Data Analysis, Statistics
+
+Responsibilities:
+Analyze datasets, generate insights, build reports, support business decisions.

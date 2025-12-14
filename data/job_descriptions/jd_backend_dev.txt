@@ -1,0 +1,5 @@
+Skills:
+Python, Java, APIs, Databases, Backend Development
+
+Responsibilities:
+Develop server-side logic, APIs, and manage databases.

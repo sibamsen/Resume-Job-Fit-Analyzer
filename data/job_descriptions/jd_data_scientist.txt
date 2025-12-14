@@ -1,0 +1,5 @@
+Skills:
+Python, Machine Learning, Statistics, Data Analysis, Model Building
+
+Responsibilities:
+Build predictive models, analyze data trends, and communicate insights.

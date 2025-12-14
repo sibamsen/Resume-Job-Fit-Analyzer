@@ -1,0 +1,10 @@
+Skills:
+Python, SQL, Pandas, NumPy, Excel, Data Analysis
+
+Experience:
+Worked as a Data Analyst Intern.
+Performed data cleaning, exploratory data analysis,
+and reporting for business teams.
+
+Education:
+B.Tech in Electronics and Communication Engineering

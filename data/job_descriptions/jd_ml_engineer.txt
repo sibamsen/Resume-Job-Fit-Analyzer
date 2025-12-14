@@ -1,0 +1,5 @@
+Skills:
+Python, Machine Learning, Deep Learning, Model Deployment, Natural Language Processing, MLOps, APIs
+
+Responsibilities:
+Develop ML models and deploy them into production systems.
