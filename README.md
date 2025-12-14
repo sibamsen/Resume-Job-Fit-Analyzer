@@ -27,27 +27,7 @@ The application uses Natural Language Processing (NLP) to extract and preprocess
 - TF-IDF vectorization
 - Cosine similarity for semantic matching
 - Rule-based skill extraction for explainability
-
-## 🗂️ Project Structure
-resume-job-fit-analyzer/
-├── app/
-│ └── streamlit_app.py
-├── data/
-│ ├── job_descriptions/
-│ │ ├── jd_data_scientist.txt
-│ │ ├── jd_data_analyst.txt
-│ │ ├── jd_ml_engineer.txt
-│ │ ├── jd_backend_dev.txt
-│ │ ├── jd_business_dev.txt
-│ │ ├── jd_hr.txt
-│ │ └── jd_project_coordinator.txt
-│ └── resumes/
-│ └── resume_sample.txt
-├── notebooks/
-│ └── nlp_text_processing_and_similarity.ipynb
-├── requirements.txt
-└── README.md
-
+- 
 ---
 
 ## ⚙️ Installation & Run Locally
@@ -55,7 +35,7 @@ resume-job-fit-analyzer/
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 pip install -r requirements.txt
-streamlit run app/streamlit_app.py
+streamlit run app/streamlit_app.py ```
 
 ---
 
