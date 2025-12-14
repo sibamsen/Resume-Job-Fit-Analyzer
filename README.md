@@ -39,7 +39,7 @@ streamlit run app/streamlit_app.py ```
 
 ---
 
-🔄 Dynamic Job Role Updates
+### 🔄 Dynamic Job Role Updates
 
 Job roles are dynamically loaded from the data/job_descriptions folder. Adding or updating a job description file automatically reflects in the deployed application without retraining or code changes.
 
