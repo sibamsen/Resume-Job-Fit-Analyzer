@@ -3,7 +3,7 @@
 A practical NLP-powered web application that analyzes a candidate’s resume and identifies the best-matched job role by comparing it against multiple job descriptions. The system provides explainable insights such as matched skills, missing skills, and fit level to support hiring decisions.
 
 ## 🚀 Live Demo
-[https://customer-churn-lab.streamlit.app/](https://resume-job-fit-analyzer.streamlit.app/)
+[[https://resume-job-fit-analyzer.streamlit.app/](https://resume-job-fit-analyzer.streamlit.app/)/]
 
 ## 🎯 Problem Statement
 Recruiters often need to quickly assess whether a candidate’s resume aligns with a given job role. Manual screening is time-consuming and subjective. This project aims to automate resume screening using explainable NLP techniques rather than black-box models.
